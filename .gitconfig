@@ -1,0 +1,19 @@
+[core]
+	editor = \"C:\\Users\\fread\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[user]
+	name  = Frederik Adamsen
+	email = Frederik.Adamsen@ist.com
+[alias]
+  a      = add
+  f 		 = fetch --all
+	b      = branch
+  ca     = commit -a
+  cam    = commit -am
+  cm     = commit -m
+  s      = status
+	us 		 = reset HEAD --
+  cob    = checkout -b
+  co     = checkout
+  lt     = log --graph --decorate --pretty=format:'%C(yellow)%h%Creset%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset'
+	last   = log -1 HEAD
+  camen  = commit --amend -m
