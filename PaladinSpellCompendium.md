@@ -662,9 +662,29 @@ _Large celestial, neutral good_
 
 **Hit Points:** equal the celestial’s Constitution modifier + your spellcasting ability modifier + ten times the spell’s level
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 14 (+2) | 16 (+3) | 10 (+0) | 14 (+2) | 16 (+3) |
+STR
+
+DEX
+
+CON
+
+INT
+
+WIS
+
+CHA
+
+16 (+3)
+
+14 (+2)
+
+16 (+3)
+
+10 (+0)
+
+14 (+2)
+
+16 (+3)
 
 **Damage Resistances:** radiant
 

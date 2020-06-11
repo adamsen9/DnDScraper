@@ -81,6 +81,16 @@ const level5Spells = [
 const baseUrl = 'http://dnd5e.wikidot.com/spell:';
 
 
+const total = level1Spells.length + level2Spells.length + level3Spells.length + level4Spells.length + level5Spells.length;
+
+let currentDone = 0;
+
+const logDone = () => {
+    currentDone++;
+    console.log(`Done with ${currentDone} of ${total}`);
+}
+
+
 const ofDeath = async (level, spellArr) => {
 
     let textString = "## " + level;
@@ -88,26 +98,30 @@ const ofDeath = async (level, spellArr) => {
     textString += "***";
     textString += "\n";
 
-    for (let i = 0; i < spellArr.length; i++) {
-        const spellTxt = "";
-        const spell = spellArr[i];
 
-        textString += "## " + spell;
-        textString += "\n";
+    const promises = spellArr.map((spell) => {
+        return new Promise(async (resolve, reject) => {
+            let str = "## " + spell;
+            str += "\n";
 
-        console.log(`fetching ${spell}, ${i + 1} of ${spellArr.length}`);
+            const res = await fetch(baseUrl + spell);
+            const html = await res.text();
+            const $ = cheerio.load(html);
+            const bodyTag = $('#page-content').first().html();
+            const markdown = turndownService.turndown(bodyTag);
 
-        const res = await fetch(baseUrl + spell);
-        const html = await res.text();
-        const $ = cheerio.load(html);
-        const bodyTag = $('#page-content').first().html();
-        const markdown = turndownService.turndown(bodyTag);
+            str += markdown;
+            str += "\n";
+            logDone();
+            return resolve(str);
+        })
+    })
 
-        textString += markdown;
-        textString += "\n";
+    const listOfMd = await Promise.all(promises);
+    for (const str of listOfMd) {
+        textString += str;
     }
 
-    console.log(level + " done");
     return textString;
 }
 
@@ -138,9 +152,10 @@ const omegaDerp = async () => {
 
     str += level5SpellsHtml;
 
+    console.log('Writing to file');
     fs.writeFile('PaladinSpellCompendium.md', str, function (err) {
         if (err) throw err;
-        console.log('Saved!');
+        console.log('Done!');
     });
 }
 
