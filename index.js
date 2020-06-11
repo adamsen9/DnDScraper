@@ -101,7 +101,7 @@ const ofDeath = async (level, spellArr) => {
 
     const promises = spellArr.map((spell) => {
         return new Promise(async (resolve, reject) => {
-            let str = "## " + spell;
+            let str = "## " + spell.replace(/-/g, ' ');
             str += "\n";
 
             const res = await fetch(baseUrl + spell);

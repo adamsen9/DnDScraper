@@ -37,7 +37,7 @@ You speak a one-word command to a creature you can see within range. The target 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Compelled-Duel
+## Compelled Duel
 _1st-level enchantment_
 
 **Casting Time:** 1 bonus action  
@@ -50,7 +50,7 @@ You attempt to compel a creature into a duel. One creature that you can see with
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Cure-Wounds
+## Cure Wounds
 _1st-level evocation_
 
 **Casting Time:** 1 action  
@@ -63,7 +63,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger)
-## Detect-Evil-and-Good
+## Detect Evil and Good
 _1st-level divination_
 
 **Casting Time:** 1 action  
@@ -76,7 +76,7 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Detect-Magic
+## Detect Magic
 _1st-level divination (ritual)_
 
 **Casting Time:** 1 action  
@@ -89,7 +89,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Detect-Poison-and-Disease
+## Detect Poison and Disease
 _1st-level divination_
 
 **Casting Time:** 1 action  
@@ -102,7 +102,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger)
-## Divine-Favor
+## Divine Favor
 _1st-level evocation_
 
 **Casting Time:** 1 bonus action  
@@ -126,7 +126,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Protection-from-Evil-and-Good
+## Protection from Evil and Good
 _1st-level abjuration_
 
 **Casting Time:** 1 action  
@@ -139,7 +139,7 @@ Until the spell ends, one willing creature you touch is protected against certai
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Purify-Food-and-Drink
+## Purify Food and Drink
 _1st-level transmutation_
 
 **Casting Time:** 1 action  
@@ -150,7 +150,7 @@ _1st-level transmutation_
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Searing-Smite
+## Searing Smite
 _1st-level evocation_
 
 **Casting Time:** 1 bonus action  
@@ -165,7 +165,7 @@ At the start of each of its turns until the spell ends, the target must make a C
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Shield-of-Faith
+## Shield of Faith
 _1st-level abjuration_
 
 **Casting Time:** 1 bonus action  
@@ -176,7 +176,7 @@ _1st-level abjuration_
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Silent-Image
+## Silent Image
 _1st-level illusion_
 
 **Casting Time:** 1 action  
@@ -191,7 +191,7 @@ You can use your action to cause the image to move to any spot within range. As 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Thunderous-Smite
+## Thunderous Smite
 _1st-level evocation_
 
 **Casting Time:** 1 bonus action  
@@ -202,7 +202,7 @@ _1st-level evocation_
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Wrathful-Smite
+## Wrathful Smite
 _1st-level evocation_
 
 **Casting Time:** 1 bonus action  
@@ -229,7 +229,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 **_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, a target’s hit points increase by an additional 5 for each slot level above 2nd.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Branding-Smite
+## Branding Smite
 _2nd-level evocation_
 
 **Casting Time:** 1 bonus action  
@@ -242,7 +242,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 **_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Find-Steed
+## Find Steed
 _2nd-level conjuration_
 
 **Casting Time:** 10 minutes  
@@ -259,7 +259,7 @@ When the steed drops to 0 hit points, it disappears, leaving behind no physical 
 While your steed is within 1 mile of you, you can communicate with it telepathically. You can’t have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Lesser-Restoration
+## Lesser Restoration
 _2nd-level abjuration_
 
 **Casting Time:** 1 action  
@@ -270,7 +270,7 @@ _2nd-level abjuration_
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger)
-## Locate-Object
+## Locate Object
 _2nd-level divination_
 
 **Casting Time:** 1 action  
@@ -285,7 +285,7 @@ The spell can locate a specific object known to you, as long as you have seen it
 This spell can’t locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Magic-Weapon
+## Magic Weapon
 _2nd-level transmutation_
 
 **Casting Time:** 1 bonus action  
@@ -298,7 +298,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Protection-from-Poison
+## Protection from Poison
 _2nd-level abjuration_
 
 **Casting Time:** 1 action  
@@ -311,7 +311,7 @@ You touch a creature. If it is poisoned, you neutralize the poison. If more than
 For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger)
-## Zone-of-Truth
+## Zone of Truth
 _2nd-level enchantment_
 
 **Casting Time:** 1 action  
@@ -327,7 +327,7 @@ An affected creature is aware of the spell and can thus avoid answering question
 ***
 ## Level 3
 ***
-## Aura-of-Vitality
+## Aura of Vitality
 _3rd-level evocation_
 
 **Casting Time:** 1 action  
@@ -338,7 +338,7 @@ _3rd-level evocation_
 Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Blinding-Smite
+## Blinding Smite
 _3rd-level evocation_
 
 **Casting Time:** 1 bonus action  
@@ -351,7 +351,7 @@ The next time you hit a creature with a melee weapon attack during this spell’
 A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Create-Food-and-Water
+## Create Food and Water
 _3rd-level conjuration_
 
 **Casting Time:** 1 action  
@@ -362,7 +362,7 @@ _3rd-level conjuration_
 You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn’t go bad.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Crusaders-Mantle
+## Crusaders Mantle
 _3rd-level evocation_
 
 **Casting Time:** 1 action  
@@ -388,7 +388,7 @@ If you chose a point on an object you are holding or one that isn’t being worn
 If any of this spell’s area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer)
-## Dispel-Magic
+## Dispel Magic
 _3rd-level abjuration_
 
 **Casting Time:** 1 action  
@@ -401,7 +401,7 @@ Choose any creature, object, or magical effect within range. Any spell of 3rd le
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell’s level is equal to or less than the level of the spell slot you used.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Elemental-Weapon
+## Elemental Weapon
 _3rd-level transmutation_
 
 **Casting Time:** 1 action  
@@ -414,7 +414,7 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Magic-Circle
+## Magic Circle
 _3rd-level abjuration_
 
 **Casting Time:** 1 minute  
@@ -435,7 +435,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Remove-Curse
+## Remove Curse
 _3rd-level abjuration_
 
 **Casting Time:** 1 action  
@@ -457,7 +457,7 @@ _3rd-level necromancy_
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Spirit-Shroud
+## Spirit Shroud
 _3rd-level necromancy_
 
 **Casting Time:** 1 bonus action  
@@ -475,7 +475,7 @@ In addition, any creature of your choice that you can see that starts its turn w
 ***
 ## Level 4
 ***
-## Aura-of-Life
+## Aura of Life
 _4th-level abjuration_
 
 **Casting Time:** 1 action  
@@ -486,7 +486,7 @@ _4th-level abjuration_
 Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can’t be reduced. In addition, a non-hostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Aura-of-Purity
+## Aura of Purity
 _4th-level abjuration_
 
 **Casting Time:** 1 action  
@@ -514,7 +514,7 @@ If the target is native to a different plane of existence that the one you’re 
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
 **_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Death-Ward
+## Death Ward
 _4th-level abjuration_
 
 **Casting Time:** 1 action  
@@ -525,7 +525,7 @@ _4th-level abjuration_
 You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spells ends.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Locate-Creature
+## Locate Creature
 _4th-level divination_
 
 **Casting Time:** 1 action  
@@ -540,7 +540,7 @@ The spell can locate a specific creature known to you, or the nearest creature o
 This spell can’t locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Staggering-Smite
+## Staggering Smite
 _4th-level evocation_
 
 **Casting Time:** 1 bonus action  
@@ -554,7 +554,7 @@ The next time you hit a creature with a melee weapon attack during this spell’
 ***
 ## Level 5
 ***
-## Banishing-Smite
+## Banishing Smite
 _5th-level abjuration_
 
 **Casting Time:** 1 bonus action  
@@ -565,7 +565,7 @@ _5th-level abjuration_
 The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 hit points of fewer, you banish it. If the target is native to a different plane of existence than the on you’re on, the target disappears, returning to its home plane. If the target is native to the plane you’re on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Circle-of-Power
+## Circle of Power
 _5th-level abjuration_
 
 **Casting Time:** 1 action  
@@ -578,7 +578,7 @@ Divine energy radiates from you, distorting and diffusing magical energy within 
 Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throws.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Destructive-Wave
+## Destructive Wave
 _5th-level evocation_
 
 **Casting Time:** 1 action  
@@ -589,7 +589,7 @@ _5th-level evocation_
 You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Dispel-Evil-and-Good
+## Dispel Evil and Good
 _5th-level abjuration_
 
 **Casting Time:** 1 action  
@@ -621,7 +621,7 @@ You can issue any command you choose, short of an activity that would result in 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-## Raise-Dead
+## Raise Dead
 _5th-level necromancy_
 
 **Casting Time:** 1 hour  
@@ -638,7 +638,7 @@ This spell closes all mortal wounds, but it doesn’t restore missing body parts
 Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin)
-## Summon-Celestial-Spirit
+## Summon Celestial Spirit
 _5th-level conjuration_
 
 **Casting Time:** 1 action  
