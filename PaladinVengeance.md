@@ -1,4 +1,4 @@
-# Paladin: Oath of Vengeance - DND 5th Edition
+# Paladin: Oath of Vengeance
 
 ### Tenets of Vengeance
 
